@@ -1,0 +1,30 @@
+{
+  "name": "printkays-digital-enterprise",
+  "version": "1.0.0",
+  "description": "Smart digital products that make school & business easier - Printkay's Digital Enterprise website",
+  "main": "PDE.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Belac-Code/Printkays-Digital-Enterprise-.git"
+  },
+  "keywords": [
+    "student-services",
+    "web-development",
+    "cbt-platforms",
+    "jamb",
+    "utme",
+    "nigeria"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Belac-Code/Printkays-Digital-Enterprise-/issues"
+  },
+  "homepage": "https://github.com/Belac-Code/Printkays-Digital-Enterprise-#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
