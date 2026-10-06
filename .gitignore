@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Package manager lock files
+# Keep package-lock.json as it ensures consistent dependency resolution
+# package-lock.json is intentionally NOT ignored
+
+# Vercel
+.vercel/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
